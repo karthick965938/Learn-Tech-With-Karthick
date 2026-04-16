@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Arduino / ESP32 build artifacts (if using arduino-cli or local build dirs)
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# Logs
+*.log
+
+# ESP32 gaming console: keep full-size camera dumps local only (README uses assets/photos/*.jpg)
+esp32_gaming_console/output*.JPG
+esp32_gaming_console/output*.jpg
