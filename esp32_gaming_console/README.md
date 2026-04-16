@@ -12,10 +12,6 @@ Companion project for the channel **[Learn Tech With Karthick](https://www.youtu
 
 Full-resolution captures are kept locally as `output1.JPG` … `output3.JPG` (ignored by Git—see repo `.gitignore`). The versions above are resized for fast loading on GitHub.
 
-### Wiring reference (diagram)
-
-![Wiring overview — ESP32, OLED, buttons, buzzer](assets/wiring-overview.svg)
-
 ## Requirements
 
 ### Hardware
